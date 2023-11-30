@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: rgb(23, 0, 66);
+}
+
+#grid{
+    width: 1000px;
+    flex-wrap: wrap;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(57, 2, 239);
+    border: 1px solid black;
+}
