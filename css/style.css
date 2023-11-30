@@ -19,3 +19,7 @@ body{
     background-color: rgb(57, 2, 239);
     border: 1px solid black;
 }
+
+.clicked{
+    background-color: white;
+}
